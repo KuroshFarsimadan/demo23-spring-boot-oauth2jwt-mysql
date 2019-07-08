@@ -1,0 +1,10 @@
+[
+  {
+      "context": [
+        "/oauth/token",
+        "/api/v2/products"
+      ],
+      "target": "http://localhost:8080",
+      "secure": false
+  }
+]
