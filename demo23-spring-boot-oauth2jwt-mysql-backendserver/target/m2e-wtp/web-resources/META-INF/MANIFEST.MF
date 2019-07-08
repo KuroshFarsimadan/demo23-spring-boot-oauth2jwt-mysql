@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: demo20-spring-boot-oauth2jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Dell
+Implementation-Vendor-Id: demo20-spring-boot-oauth2jwt
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/demo20-sprin
+ g-boot-oauth2jwt/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
